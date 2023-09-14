@@ -1,0 +1,42 @@
+[
+    {
+        "id": 12345,
+        "cover": "https://i.ibb.co/N6w0PLs/1.jpg",
+        "title": "How to get your first job as a self-taught programmer",
+        "author": "Alice Winters",
+        "author-img": "https://i.ibb.co/m8JDvJY/boy1.png",
+        "posted-date": "2023-08-20",
+        "reading-times": 1235,
+        "hashtags": ["#Fantasy", "#Adventure", "#Magic"]
+    },
+    {
+        "id": 67890,
+        "cover": "https://i.ibb.co/GsYm2tf/2.png",
+        "title": "Secrets of the Cosmos",
+        "author": "John Smith",
+        "author-img": "https://i.ibb.co/TLtKxV7/boy2.jpg",
+        "posted-date": "2023-08-15",
+        "reading-times": 980,
+        "hashtags": ["#Science", "#Space", "#Exploration"]
+    },
+    {
+        "id": 24680,
+        "cover": "https://i.ibb.co/ctsm6Vn/3.png",
+        "title": "Culinary Delights",
+        "author": "Emily Cook",
+        "author-img": "https://i.ibb.co/d6FhM1g/girl1.jpg",
+        "posted-date": "2023-08-10",
+        "reading-times": 1550,
+        "hashtags": ["#Cooking", "#Foodie", "#Recipes"]
+    },
+    {
+        "id": 13579,
+        "cover": "https://i.ibb.co/W0j1Q3r/4.jpg",
+        "title": "The Art of Painting",
+        "author": "David Masters",
+        "author-img": "https://i.ibb.co/cLk4xfy/girl2.jpg",
+        "posted-date": "2023-08-05",
+        "reading-times": 750,
+        "hashtags": ["#Art", "#Painting", "#Creativity"]
+    }
+]
